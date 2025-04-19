@@ -94,7 +94,7 @@ Built as an OpenGL graphics project using algorithmic drawing techniques.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is Free for all. Use it however you like.
 
 ---
 
